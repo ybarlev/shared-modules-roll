@@ -9,6 +9,6 @@ install::
 	mkdir -p -m 755 $(ROOT)/$(PKGROOT)
 	install -m 755 *.sh $(ROOT)/$(PKGROOT)
 	install -m 755 *.csh $(ROOT)/$(PKGROOT)
-	mkdir -p -m 755 $(ROOT)/opt/modulefiles
+	mkdir -p -m 755 $(ROOT)/share/apps/modulefiles
 
 clean::
