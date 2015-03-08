@@ -58,7 +58,5 @@
 
 . $ROCKSROOT/src/roll/etc/bootstrap-functions.sh
 
-
-compile_and_install sdsc-devel
 compile_and_install sdsc-etc-profile
 
