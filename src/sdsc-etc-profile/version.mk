@@ -1,4 +1,4 @@
-NAME       = sdsc-etc-profile
+NAME       = shared-modules
 VERSION    = 1
 RELEASE    = 2
 PKGROOT    = /etc/profile.d
